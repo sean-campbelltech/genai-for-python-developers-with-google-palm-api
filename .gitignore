@@ -158,3 +158,7 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+genai-bot/end/tensile-axiom-403416-3843df8cede8.json
+genai-bot/start/tensile-axiom-403416-3843df8cede8.json
+integration-options/vertex-ai-rest-interface/tensile-axiom-403416-3843df8cede8.json
+integration-options/vertex-ai-sdk/tensile-axiom-403416-3843df8cede8.json
