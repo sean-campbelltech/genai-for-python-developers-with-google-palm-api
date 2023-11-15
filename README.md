@@ -18,4 +18,4 @@ The core of the course focuses on practicality. You'll be guided through the pro
 - Seamlessly integrate the Google Vertex AI PaLM API into your Python code.
 - Build your own generative AI application.
 
-Don't miss this unique opportunity to expand your Python development toolkit with the creative possibilities of Generative AI. Join us on this exciting journey, and let's add the power of GenAI creativity to your projects. [Enroll]() today and unlock a new dimension of software development!
+Don't miss this unique opportunity to expand your Python development toolkit with the creative possibilities of Generative AI. Join us on this exciting journey, and let's add the power of GenAI creativity to your projects. [Enroll](https://www.udemy.com/course/generative-ai-for-python-developers-with-google-palm-api) today and unlock a new dimension of software development!
